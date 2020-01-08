@@ -1,6 +1,6 @@
 /** @hidden */
-import { XOR } from './typeHelpers';
-import { SchemaChecker } from './schemaChecker';
+import { XOR } from './typeHelpers.ts';
+import { SchemaChecker } from './schemaChecker.ts';
 
 /**
  * Types modelling the [JSON:API v1.0](https://jsonapi.org/format/1.0/#document-structure) specification.

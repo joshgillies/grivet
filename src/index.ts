@@ -1,6 +1,6 @@
-import { Spec } from './jsonapiSpec';
-import { SchemaError } from './schemaChecker';
-import { memoized } from './memoized.decorator';
+import { Spec } from './jsonapiSpec.ts';
+import { SchemaError } from './schemaChecker.ts';
+import { memoized } from './memoized.decorator.ts';
 
 export { Spec };
 
